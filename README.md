@@ -1,2 +1,3 @@
 # hello-world
-蓝极北的
+蓝极北
+println"HELLO,WORLD"
